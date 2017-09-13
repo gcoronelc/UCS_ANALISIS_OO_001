@@ -1,0 +1,25 @@
+ 
+- Asistencia y Puntualidad
+  - Falta: un punto menos
+  - Tardanza: medio punto menos
+  - A partir de la 2da clase
+  - Tolerancia para asistencia: 20'
+  - Tolerancia para Tardanza: Hasta las 8pm
+  - Después de las 8pm se considera falta
+
+- Evaluación
+
+  - Asistencia: Individual
+  
+  - Participación en clase: Individual (Controles)
+  
+  - Objeto de aprendizaje: Grupal - 2 Participantes
+    Trabjo en grupo sobre patrones, buenas practicas, lenguajes, etc.
+	
+  - Trabajo de investigación: Grupal - 2 Participantes
+    La idea es plantear un proyecto por equipo.
+	
+  - Examen Final: Grupos de 2 participantes
+
+
+  
