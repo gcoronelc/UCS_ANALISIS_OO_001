@@ -1,0 +1,23 @@
+Enlace:
+================
+
+http://gcoronelc.blogspot.pe/2017/08/java-fundamentos-00-servicios.html
+
+
+
+Proyecto 1:
+==================================================================================
+
+Realice el análisis para desarrollar un programa que permita encontrar 
+el valor de una venta. 
+
+Debe definir las condiciones, identificar y diseñar los servicios respectivos.
+
+
+Proyecto 2:
+==================================================================================
+
+Desarrolle un programa para encontrar promedio de un estudiante de Java. 
+
+Debe definir las condiciones, identificar y diseñar los servicios respectivos.
+

@@ -33,6 +33,9 @@
 
 ## Analisis Orientado a Objetos
 
+- http://gcoronelc.blogspot.pe/2017/08/java-fundamentos-00-servicios.html
+- http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
+- http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
 - http://lpb147.blogspot.pe/2015/10/ingenieria-de-software.html
 - http://lpb147.blogspot.pe/2015/10/tema-2-analisis-orientado-objetos-aoo.html
 - http://lpb147.blogspot.pe/2015/10/tema-3-diseno-orientado-los-objetos-doo.html
