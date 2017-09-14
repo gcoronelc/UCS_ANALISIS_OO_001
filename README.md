@@ -1,8 +1,8 @@
-﻿![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/curso.jpg)
+﻿![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/curso.jpg)
 
-![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/oo.png)
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/oo.png)
 
-![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/ds.png)
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/ds.png)
 
 
 
