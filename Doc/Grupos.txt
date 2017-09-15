@@ -1,42 +1,43 @@
 Grupo 1
 ======================================
 Integrantes:
-1.- 
-2.- 
-3.- 
-Tema 1:
-Tema 2:
+1.- SOTOMAYOR HURTADO,VICTOR HUGO
+2.- SAMANIEGO HUAMAN,PRIX ANTHONY
+3.- BARREDA ZUÑIGA,CARLOS ENRIQUE
+Objecto Apren. 1: Principio DRY
+Objecto Apren. 2:
+Tema Proyecto: 
 
 
 Grupo 2
 ======================================
 Integrantes:
-1.- 
-2.- 
-3.- 
-Tema 1:
-Tema 2:
-
+1.- JORGE DE LA CRUZ,JOSELYN JANNET
+2.- ZAVALA DÍAZ,ANÍBAL GHIOMAR
+3.- FLORES PUMA,LUIS MODESTO
+Objecto Apren. 1: Patron Fachada
+Objecto Apren. 2:
+Tema Proyecto:
 
 Grupo 3
 ======================================
 Integrantes:
-1.- 
-2.- 
+1.- SALAZAR DAVILA,LUIGUI EDUARDO
+2.- LACE TELLO,FIDEL
 3.- 
-Tema 1:
-Tema 2:
-
+Objecto Apren. 1: Patrón MVC
+Objecto Apren. 2:
+Tema Proyecto:
 
 Grupo 4
 ======================================
 Integrantes:
-1.- 
-2.- 
+1.- PARDO SOTELO,DANIEL ALCIDES
+2.- VICELLI BERGES,HERBERT ANTHONY
 3.- 
-Tema 1:
-Tema 2:
-
+Objecto Apren. 1: Principios SOLID
+Objecto Apren. 2:
+Tema Proyecto:
 
 Grupo 5
 ======================================
@@ -44,8 +45,9 @@ Integrantes:
 1.- 
 2.- 
 3.- 
-Tema 1:
-Tema 2:
+Objecto Apren. 1:
+Objecto Apren. 2:
+Tema Proyecto:
 
 
 Grupo 6
@@ -54,21 +56,34 @@ Integrantes:
 1.- 
 2.- 
 3.- 
-Tema 1:
-Tema 2:
+Objecto Apren. 1:
+Objecto Apren. 2:
+Tema Proyecto:
 
-Estudiantes:
+
+
+Temas: Objeto de Aprendizaje
 ============================================
-BARREDA ZUÑIGA,CARLOS ENRIQUE
-FLORES PUMA,LUIS MODESTO
-JORGE DE LA CRUZ,JOSELYN JANNET
-LACE TELLO,FIDEL
-PARDO SOTELO,DANIEL ALCIDES
-SALAZAR DAVILA,LUIGUI EDUARDO
-SAMANIEGO HUAMAN,PRIX ANTHONY
-SOTOMAYOR HURTADO,VICTOR HUGO
-VICELLI BERGES,HERBERT ANTHONY
-ZAVALA DÍAZ,ANÍBAL GHIOMAR
+- Patron Fachada *
+- Patrón Factory
+- Patrón MVC *
+- Principio DRY *
+- Principios SOLID *
+- Pruebas Unitarias
+- Pruebas de Cobertura
+- Patrón Inyección de Dependencias
+
+
+
+
+    
+- Lean UX
+
+
+
+
+
+
 
 
 
