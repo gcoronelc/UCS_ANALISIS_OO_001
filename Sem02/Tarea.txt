@@ -1,0 +1,39 @@
+Enlace:
+================
+
+http://gcoronelc.blogspot.pe/2017/08/java-fundamentos-00-servicios.html
+
+
+
+Proyecto 1:
+==================================================================================
+
+Realice el análisis para desarrollar un programa que permita encontrar 
+el valor de una venta. 
+
+Debe definir las condiciones, identificar y diseñar los servicios respectivos.
+
+
+CONDICIONES
+==================================================================================
+
+1.- La venta siempre es de un solo tipo de producto.
+2.- La cantidad minima es 1, puede ser mucho mas.
+3.- Si la cantidad es igual o mayor a 6 unidades, se hace
+    un descuento de 5% en el precio de venta.
+4.- El precio de venta ya incluye el impuesto.
+5.- Se necesita encontrar:
+    - El importe de la venta
+	- El impuesto 
+	- El total
+	
+
+
+
+Proyecto 2:
+==================================================================================
+
+Desarrolle un programa para encontrar promedio de un estudiante de Java. 
+
+Debe definir las condiciones, identificar y diseñar los servicios respectivos.
+
