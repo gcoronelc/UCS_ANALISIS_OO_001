@@ -1,12 +1,8 @@
-﻿![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/curso.jpg)
-
-![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/oo.png)
-
-![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/ds.png)
+﻿# ANALISIS Y DISEÑO ORIENTADO A OBJETOS
 
 
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/curso.jpg)
 
-# ANALISIS Y DISEÑO ORIENTADO A OBJETOS
 
 ## Datos Generales
 
@@ -31,8 +27,20 @@
 # Recursos 
 
 
+- Seminario de Java JDBC: http://goo.gl/fHb2yf
+- Spring Framework: http://gcoronelc.blogspot.pe/p/spring-framework.html
+- Problemas con el puerto 8080: http://goo.gl/2KYG1d
+- Artículo sobre Git y GitHub: http://goo.gl/6hZMfX
+- Pool de conexiones con Tomcat: http://goo.gl/ZdQQv0
+- Pool de conexiones con GlassFish: http://goo.gl/pyAt8d
+- Analisis y Diseño Orientado a Objetos: https://youtu.be/xyuyCoYKvy0
+- Pruebas de Software: https://youtu.be/pII2WpxJQg4
+- Pruebas de Cobertura: https://youtu.be/F0qx_WXz5Z8
+
+
 ## Analisis Orientado a Objetos
 
+- https://youtu.be/xyuyCoYKvy0
 - http://gcoronelc.blogspot.pe/2017/08/java-fundamentos-00-servicios.html
 - http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
 - http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
@@ -98,5 +106,15 @@
 - http://searchmicroservices.techtarget.com/quiz/Quiz-What-do-you-know-about-Web-services-technology
 - http://www.c4learn.com/mcq/web-services-mcq/multiple-choice-questions-set-1/
 - http://itelearn.com/webservices-testing-quiz-i/
+
+
+## Otros Recursos
+
+
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/oo.png)
+
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/ds.png)
+
+![ANALISIS Y DISEÑO ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCS_ANALISIS_OO_001/master/Img/java-cs.png)
 
 
